@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Vasilkoff PAD Make 1.0</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://vasilkoff.com/pad-make</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+    <CERTIFIED>N</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Stellare Software</Company_Name>
+    <Company_WebSite_URL>https://stellare-software.lemonsqueezy.com/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Stellare</Author_First_Name>
+      <Author_Last_Name>Software</Author_Last_Name>
+      <Contact_Email>ecoserv301@gmail.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>Stellare Document Encryption</Program_Name>
+    <Program_Version>v6</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>02</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <!-- Tiered pricing: Standard £9 / Advanced £29 / Professional £59. PAD uses entry price. -->
+    <Program_Cost_Dollars>9.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>GBP</Program_Cost_Other_Code>
+    <Program_Cost_Other>9.00</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Installer_Type>EXE</Program_Installer_Type>
+    <Program_Category_Class>Security &amp; Privacy::Encryption Tools</Program_Category_Class>
+    <Program_Category_Class2>Security &amp; Privacy::Other</Program_Category_Class2>
+    <Program_Specific_Category>File Encryption</Program_Specific_Category>
+    <Program_Keywords>file encryption, AES-256, ChaCha20, Argon2id, document encryption, military-grade encryption, triple-pass encryption, machine-bound license, right-click encryption, brute force protection, Windows encryption tool, secure files, PDF encryption, secure documents, file security</Program_Keywords>
+    <Expire_Count>0</Expire_Count>
+    <Expire_Based_On>Launches</Expire_Based_On>
+    <Expire_Other_Time></Expire_Other_Time>
+    <Expire_Warn_Days>0</Expire_Warn_Days>
+    <Expire_Warn_Times>0</Expire_Warn_Times>
+  </Program_Info>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://stellare-software.lemonsqueezy.com/</Application_Info_URL>
+      <Application_Order_URL>https://stellare-software.lemonsqueezy.com/checkout/buy/e7f6be3b-b91d-4ed2-92d2-ef11c4b0e257</Application_Order_URL>
+      <Application_Screenshot_URL>https://github.com/ecoserv301-dotcom/Stellare-Document-Encryption/raw/refs/heads/main/SDE%20PRO%20v124.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/ecoserv301-dotcom/Stellare-Document-Encryption/raw/refs/heads/main/stellare_preview-2.ico</Application_Icon_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/ecoserv301-dotcom/Stellare-Document-Encryption/raw/refs/heads/main/StellareDocumentEncryptionSetup_v6.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+
+  <Program_Descriptions>
+    <English>
+
+      <!-- 45 characters max — 45 chars exactly -->
+      <Char_Desc_45>Military-grade triple-pass AES-256 encryption</Char_Desc_45>
+
+      <!-- 80 characters max — 77 chars -->
+      <Char_Desc_80>Triple-pass AES-256 file encryption with Argon2id key derivation for Windows.</Char_Desc_80>
+
+      <!-- 150 characters max — 141 chars -->
+      <Char_Desc_150>Stellare Document Encryption protects any file with triple-pass AES-256, ChaCha20 and Argon2id. Machine-bound licensing. 3 tiers from £9.</Char_Desc_150>
+
+      <!-- 250 characters max — 247 chars -->
+      <Char_Desc_250>Stellare Document Encryption uses a triple-pass cipher stack (AES-256 + ChaCha20 + AES-256) with Argon2id key derivation to protect any file type. Right-click shell integration, brute-force resistance, and machine-bound licensing in 3 tiers from £9.</Char_Desc_250>
+
+      <!-- 450 characters max — 444 chars -->
+      <Char_Desc_450>Stellare Document Encryption is a military-grade file encryption tool for Windows. It uses triple-pass AES-256, ChaCha20 and Argon2id key derivation to protect any file type. Features include right-click shell integration, machine-bound hardware licensing, brute-force resistance and a built-in PDF user manual. Available in Standard (£9), Advanced (£29) and Professional (£59) tiers. Installs and uninstalls cleanly with no residual data.</Char_Desc_450>
+
+      <!-- Full description — used by sites that accept longer text -->
+      <Char_Desc_2000>Stellare Document Encryption (SDE) v6 is a professional-grade file encryption application for Windows 10 and Windows 11. Built for individuals and businesses who need reliable, hardware-bound protection for sensitive documents, SDE applies a triple-pass cipher stack that is resistant to brute-force attack and keyed to your machine.
+
+HOW IT WORKS:
+SDE encrypts any file — PDF, DOCX, images, archives, executables — using a three-layer cipher stack: AES-256 first pass, ChaCha20 mid-pass, and AES-256 final pass. Keys are derived using Argon2id with a configurable work factor, meaning brute-force attacks are computationally expensive by design. The encrypted output is machine-bound — it can only be decrypted on the hardware it was locked to, preventing unauthorised redistribution.
+
+KEY FEATURES:
+- Triple-pass cipher stack: AES-256 + ChaCha20 + AES-256
+- Argon2id key derivation — hardened against GPU and dictionary attacks
+- KFM-Controlled Encryption Depth — key file mechanism for additional key material
+- Machine-bound licensing — hardware-locked, cannot be transferred without re-activation
+- Right-click Windows shell integration — encrypt or decrypt any file from Explorer
+- Built-in PDF user manual — full documentation included in the installer
+- Brute-force secure mode (Professional tier) — maximum resistance configuration
+- Clean install and uninstall — no residual encrypted data or registry junk
+- Compatible with Windows 10 and Windows 11
+
+THREE TIERS:
+Standard (£9) — Core triple-pass encryption, right-click shell integration, machine-bound licensing, 7 core features.
+Advanced (£29) — All Standard features plus Advanced Key File mode, expanded cipher options, 8 features.
+Professional (£59) — All Advanced features plus Brute Force Secure mode, maximum Argon2id hardening, priority activation, 8 features.
+
+WHO IT IS FOR:
+Individuals protecting sensitive personal documents on shared or portable machines. Small businesses encrypting client files before cloud storage or email. Developers and IT professionals who need a scriptable, hardware-bound encryption layer without relying on cloud key management. Anyone who needs file-level encryption that works without an internet connection.
+
+SDE v6 is compiled natively with Nuitka and packaged with Inno Setup — no Python runtime is distributed, and the binary is not a wrapper. What you install is a standalone Windows application.</Char_Desc_2000>
+
+    </English>
+  </Program_Descriptions>
+
+</XML_DIZ_INFO>

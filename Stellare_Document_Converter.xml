@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Vasilkoff PAD Make 1.0</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://vasilkoff.com/pad-make</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+    <CERTIFIED>N</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Stellare Software</Company_Name>
+    <Company_WebSite_URL>https://stellare-software.lemonsqueezy.com/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Stellare</Author_First_Name>
+      <Author_Last_Name>Software</Author_Last_Name>
+      <Contact_Email>ecoserv301@gmail.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>Stellare Document Converter</Program_Name>
+    <Program_Version>v2.1.2</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>02</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>9.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>GBP</Program_Cost_Other_Code>
+    <Program_Cost_Other>9.00</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Installer_Type>EXE</Program_Installer_Type>
+    <Program_Category_Class>Office Suites &amp; Tools::Converters &amp; Optimizers</Program_Category_Class>
+    <Program_Category_Class2>Office Suites &amp; Tools::Other</Program_Category_Class2>
+    <Program_Specific_Category>Document Conversion</Program_Specific_Category>
+    <Program_Keywords>document converter, PDF converter, DOCX to PDF, PDF to DOCX, ODT converter, ICO maker, icon maker, batch conversion, LibreOffice, document format, file converter, JPEG export, Windows document tool, drag and drop converter, office file converter</Program_Keywords>
+    <Expire_Count>0</Expire_Count>
+    <Expire_Based_On>Launches</Expire_Based_On>
+    <Expire_Other_Time></Expire_Other_Time>
+    <Expire_Warn_Days>0</Expire_Warn_Days>
+    <Expire_Warn_Times>0</Expire_Warn_Times>
+  </Program_Info>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://stellare-software.lemonsqueezy.com/</Application_Info_URL>
+      <Application_Order_URL>https://stellare-software.lemonsqueezy.com/checkout/buy/9bbf43cd-cd5d-451b-a212-d78c165dcbb8</Application_Order_URL>
+      <Application_Screenshot_URL>https://github.com/ecoserv301-dotcom/Stellare_Software_Document_Converter-Icon-maker/raw/main/Stellare%20document%20converter.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/ecoserv301-dotcom/Stellare_Software_Document_Converter-Icon-maker/raw/refs/heads/main/stellare_converter.ico</Application_Icon_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/ecoserv301-dotcom/Stellare_Software_Document_Converter-Icon-maker/raw/main/Stellare_Document_Converter_Setup_v2.1.2.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+
+  <Program_Descriptions>
+    <English>
+
+      <!-- 45 characters max — 42 chars -->
+      <Char_Desc_45>Batch doc converter with built-in ICO Maker</Char_Desc_45>
+
+      <!-- 80 characters max — 79 chars -->
+      <Char_Desc_80>Batch PDF and DOCX converter with built-in ICO Maker. Powered by LibreOffice.</Char_Desc_80>
+
+      <!-- 150 characters max — 148 chars -->
+      <Char_Desc_150>Stellare Document Converter batch-converts PDF, DOCX, DOC, ODT and JPEG. Includes an ICO Maker for multi-size icons. Powered by LibreOffice.</Char_Desc_150>
+
+      <!-- 250 characters max — 248 chars -->
+      <Char_Desc_250>Stellare Document Converter batch-converts between PDF, DOCX, DOC, ODT and JPEG with a single click. Includes a built-in ICO Maker for creating multi-size icon files. Drag-and-drop queuing, custom output folders. Powered by LibreOffice for accuracy.</Char_Desc_250>
+
+      <!-- 450 characters max — 443 chars -->
+      <Char_Desc_450>Stellare Document Converter is a professional batch document conversion tool for Windows. Convert between PDF, DOCX, DOC, ODT and JPEG with a single click. Includes a built-in ICO Maker for creating multi-size icon files from any image. Powered by LibreOffice for accurate, high-fidelity conversion. Supports drag-and-drop queuing, custom output folders and multi-page JPEG export. One purchase, one machine. LemonSqueezy licence, instant delivery.</Char_Desc_450>
+
+      <!-- Full description — used by sites that accept longer text -->
+      <Char_Desc_2000>Stellare Document Converter (SDC) v2.1.2 is a professional batch document conversion application for Windows 10 and Windows 11. It combines a full-format document converter with a built-in ICO Maker, powered by LibreOffice for reliable, high-fidelity output across all supported formats.
+
+WHAT IT DOES:
+SDC converts documents between the most common office and image formats in batch mode. Drop in a folder of files, choose an output format, and SDC processes all of them in sequence — no per-file manual steps, no cloud upload required.
+
+SUPPORTED CONVERSIONS:
+- PDF to DOCX
+- DOCX / DOC to PDF
+- ODT to PDF / DOCX
+- DOCX / PDF to JPEG (multi-page export — each page becomes a separate JPEG)
+- Any image format to ICO (multi-size: 16x16, 32x32, 48x48, 64x64, 128x128, 256x256)
+
+BUILT-IN ICO MAKER:
+The ICO Maker converts any supported image (PNG, JPEG, BMP) into a properly formatted multi-resolution Windows icon file. Useful for developers, designers, and anyone packaging a Windows application.
+
+KEY FEATURES:
+- Batch conversion — queue unlimited files at once
+- Drag-and-drop interface — drop files or entire folders directly into the app
+- Custom output folders — choose where converted files are saved
+- Multi-page JPEG export — each page of a PDF or DOCX is exported as a numbered JPEG
+- Powered by LibreOffice — high-fidelity conversion engine, not a lightweight wrapper
+- ICO Maker included — no separate tool needed
+- Compatible with Windows 10 and Windows 11
+- LemonSqueezy licence — instant delivery, machine-locked activation
+
+WHO IT IS FOR:
+Office workers who regularly need to convert between PDF and DOCX formats without a subscription. Developers packaging Windows applications who need to generate ICO files from PNGs. Small businesses batch-processing client documents without cloud dependencies. Anyone who needs reliable document conversion that works offline.
+
+SDC is compiled natively with Nuitka and packaged with Inno Setup — it installs as a standard Windows application and uninstalls cleanly.</Char_Desc_2000>
+
+    </English>
+  </Program_Descriptions>
+
+</XML_DIZ_INFO>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Vasilkoff PAD Make 1.0</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>https://vasilkoff.com/pad-make</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+    <CERTIFIED>N</CERTIFIED>
+    <CERTIFICATE_ID></CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE></CERTIFICATE_LICENSE>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Stellare Software</Company_Name>
+    <Company_WebSite_URL>https://stellare-software.lemonsqueezy.com/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Stellare</Author_First_Name>
+      <Author_Last_Name>Software</Author_Last_Name>
+      <Contact_Email>ecoserv301@gmail.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>Stellare Music Enhancer</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>01</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>49.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>GBP</Program_Cost_Other_Code>
+    <Program_Cost_Other>49.00</Program_Cost_Other>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Installer_Type>EXE</Program_Installer_Type>
+    <Program_Category_Class>Audio &amp; Multimedia::Audio File Players</Program_Category_Class>
+    <Program_Category_Class2>Audio &amp; Multimedia::Other</Program_Category_Class2>
+    <Program_Specific_Category>Audio Mastering</Program_Specific_Category>
+    <Program_Keywords>audio mastering, music enhancer, mastering software, electronic music, AI mastering, LUFS, loudness normalisation, genre EQ, harmonic exciter, spectral correction, batch audio processing, GPU audio, club music, Beatport, streaming mastering, WAV processor, audio pipeline, music production</Program_Keywords>
+    <Expire_Count>0</Expire_Count>
+    <Expire_Based_On>Launches</Expire_Based_On>
+    <Expire_Other_Time></Expire_Other_Time>
+    <Expire_Warn_Days>0</Expire_Warn_Days>
+    <Expire_Warn_Times>0</Expire_Warn_Times>
+  </Program_Info>
+
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://stellare-software.lemonsqueezy.com/</Application_Info_URL>
+      <Application_Order_URL>https://stellare-software.lemonsqueezy.com/checkout/buy/62a6e665-99ec-4f5a-9ae2-de7f2ee08ae2</Application_Order_URL>
+      <Application_Screenshot_URL>https://github.com/ecoserv301-dotcom/Stellare-Music-Enhancer/raw/refs/heads/main/sme1.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/ecoserv301-dotcom/Stellare-Music-Enhancer/raw/refs/heads/main/icon_256.png</Application_Icon_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/ecoserv301-dotcom/Stellare-Music-Enhancer/releases/download/StellareMusicEnhancer/StellareMusicEnhancerSetup.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+
+  <Program_Descriptions>
+    <English>
+
+      <!-- 45 characters max — FIXED: was 48 chars, now 43 -->
+      <Char_Desc_45>AI mastering pipeline for electronic music</Char_Desc_45>
+
+      <!-- 80 characters max — 78 chars -->
+      <Char_Desc_80>10-stage AI mastering pipeline for club and electronic music. GPU-accelerated.</Char_Desc_80>
+
+      <!-- 150 characters max — 138 chars -->
+      <Char_Desc_150>Stellare Music Enhancer is a 10-stage AI mastering pipeline for club and electronic music. GPU-accelerated, targets -13 LUFS for streaming.</Char_Desc_150>
+
+      <!-- 250 characters max — 243 chars -->
+      <Char_Desc_250>Stellare Music Enhancer processes audio through 10 automated stages: spectral correction, artifact removal, harmonic excitation, genre-aware EQ, and 8x oversampled limiting. Outputs -13 LUFS masters ready for Beatport, Spotify, and Apple Music.</Char_Desc_250>
+
+      <!-- 450 characters max — 484 chars — trimmed to fit -->
+      <Char_Desc_450>Stellare Music Enhancer is a 10-stage professional audio mastering pipeline for electronic and club music. Drop in a raw mix and receive a clean, loud, distribution-ready master in minutes. Features: dual-pass spectral dewobbling, AI artifact removal, harmonic exciter restoring 14-18 kHz air, genre-aware dynamic EQ, HPSS split limiting, 8x oversampled ARC limiting targeting -13 LUFS. GPU-accelerated via CUDA. Batch processing. One purchase, two machines.</Char_Desc_450>
+
+      <!-- Full description — used by sites that accept longer text -->
+      <Char_Desc_2000>Stellare Music Enhancer is a professional 10-stage audio mastering pipeline built specifically for electronic and club music. Drop in a raw MP3, FLAC, WAV, or AAC file and receive a clean, loud, polished master ready to upload to Beatport, Spotify, Apple Music, or the dancefloor — in minutes, not hours.
+
+WHAT IT DOES:
+Stellare works through ten sequential automated stages, each building on the last. It handles everything a mastering engineer does by hand — spectral correction, artefact removal, harmonic restoration, frequency shaping, loudness control, metadata tagging, and archive cleanup — without requiring manual intervention.
+
+10-STAGE PIPELINE:
+Stage 0: Converts MP3, FLAC, AAC, and MP4 to 44.1kHz 32-bit WAV
+Stage 2: Spectral Dewobbler I — removes phase drift and spectral flutter
+Stage 3: AI Artifact Removal — detects and attenuates codec damage and compression ghosts
+Stage 5.5: Source Processor — phase coherence, mono bass below 120Hz, M/S stereo narrowing
+Stage 5: Harmonic Exciter — restores 14-18kHz air via harmonic generation (78.8% to 100% spectral coverage)
+Stage 6.5: Spectral Dewobbler II — second-pass correction after excitation
+Stage 6: Auto EQ — genre-aware dynamic EQ (Deep House, Techno, Tech House, Trance, Melodic House and more)
+Stage 7: Limiter — 8x oversampled ARC limiting with HPSS split processing, targets -13 LUFS
+Stage 8: MetaTag — writes ID3 tags, genre, BPM automatically
+Stage 10: Cleanup — removes intermediates, renames outputs, archives originals
+
+KEY FEATURES:
+- GPU-accelerated via NVIDIA CUDA (Stages 2, 3, 6.5) — automatic CPU fallback
+- Does NOT require AVX, AVX-256, or AVX-512 — runs on a wide range of hardware
+- Batch processing — handles unlimited files overnight
+- Genre detection — EQ curve, bass weighting, and mid presence calibrated per genre
+- BPM detection — tempo embedded in metadata automatically
+- -13 LUFS targeting — Spotify and Apple Music standard, no platform turn-down
+- HPSS split processing — kick and pad limited independently before recombination
+- Processes a 3-minute track in 2-6 minutes (vs 35-50 minutes for comparable tools)
+- Output: 44.1kHz / 24-bit WAV, distribution-ready
+- Compatible with Windows 10 and Windows 11
+- One purchase covers 2 machines — LemonSqueezy licence, instant delivery
+
+WHO IT IS FOR:
+Independent DJs and producers releasing on Beatport or Traxsource without a per-track mastering budget. Small labels processing compilations and EPs overnight. Studio engineers using it as a fast first-pass mastering chain. Producers whose mixes translate well in a bedroom but lose impact on a club system.
+
+Stellare Music Enhancer delivers what a mastering engineer charges 50-150 GBP per track to do — consistently, automatically, and in a fraction of the time.</Char_Desc_2000>
+
+    </English>
+  </Program_Descriptions>
+
+</XML_DIZ_INFO>
